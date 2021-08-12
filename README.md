@@ -1,10 +1,10 @@
 ## Oiii! Eu sou o Oda Lemos 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/odalemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odalemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odalemos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Oda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Oda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Oda-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
